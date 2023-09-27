@@ -1,0 +1,49 @@
+
+
+h1 {
+
+	color: black;
+	text-align: center;
+	font-family: serif;
+	font-size: 4.5em;
+	
+
+
+
+
+
+body
+
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+
+ }
+
+ 
+
+h2 {
+	font-size: 1.5em;
+	padding-left: 30px;
+	text-align: center;
+	text-decoration: underline;
+	color: brown;
+
+
+	
+
+}
+
+ul, ol { 
+
+list-style: none; 
+padding-left: 30px;
+text-align: center;
+
+}
+
+li {
+
+	margin-bottom: 5px;
+}
+
