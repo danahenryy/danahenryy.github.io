@@ -1,0 +1,54 @@
+
+
+
+#recentlyViewed {
+
+	margin-left: 2.4%;
+	font-family: Univers LT Std;
+
+}
+
+
+/*try to move imgs so theyre aligned with #recentlyviewed and #suggested text*/
+#viewProduct: {
+
+	margin-left:15%;
+	width: 10%;
+
+}
+
+
+
+#suggested {
+
+	margin-left: 2.4%;
+	font-family: Univers LT Std;
+
+}
+
+
+#menu {
+
+	width: 100%;
+	height: 50px;
+	background: rgba(85, 154, 203, 1.0);
+	margin-left: 0%;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.menuItem {
+
+display: inline-block;
+padding: 15px;
+font-family: Univers LT Std;
+
+}
+
+.menuItem:hover {
+
+background: skyblue;
+font-family: Univers LT Std;
+
+}
